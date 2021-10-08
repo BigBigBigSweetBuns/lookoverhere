@@ -9,6 +9,7 @@
 <style>
 html {
   font-size: 16px;
+  font-family: PingFangSC-Regular, "Microsoft Yahei-Regular", "Microsoft Yahei";
 }
 body {
   margin: 0;

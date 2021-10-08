@@ -19,11 +19,33 @@ $bg-color-semi: #454545;
 $bg-color-gray: #888888;
 $bg-color-light: #f8f8f8;
 $bg-color-white: #ffffff;
-// line-height
-$D-line-height: 1.5;
 //
 $right-color: #09bb07;
 $error-color: #e64340;
+// color
+$blue: #007bff;
+$indigo: #6610f2;
+$purple: #6f42c1;
+$pink: #e83e8c;
+$red: #f65050;
+$orange: #fd7e14;
+$yellow: #ffc107;
+$green: #28a745;
+$teal: #20c997;
+$cyan: #17a2b8;
+$white: #fff;
+$gray: #6c757d;
+$gray-dark: #343a40;
+$primary: #fff;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #f65050;
+$light: #f8f9fa;
+$dark: #343a40;
+// line-height
+$D-line-height: 1.5;
 //margin
 $margin: 0.6rem;
 $padding: 0.6rem;
@@ -32,3 +54,5 @@ $margin-bottom: 0.6rem;
 $color-border: #eeeeee;
 $color-border-D9: #d9d9d9;
 $border-radius: 0.25rem;
+// transition
+$transition-default: all 0.125s linear;
