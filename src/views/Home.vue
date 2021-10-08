@@ -3,6 +3,7 @@
     <TopHeader></TopHeader>
     <img alt="Vue logo" src="../assets/logo.png" />
     <ProjectList></ProjectList>
+    <AboutMe></AboutMe>
   </div>
 </template>
 
@@ -11,12 +12,14 @@
 
 import TopHeader from "@/components/topHeader/TopHeader.vue";
 import ProjectList from "@/components/projectList/ProjectList.vue";
+import AboutMe from "@/components/aboutMe/AboutMe.vue";
 
 export default {
   name: "Home",
   components: {
     TopHeader,
     ProjectList,
+    AboutMe,
   },
 };
 </script>

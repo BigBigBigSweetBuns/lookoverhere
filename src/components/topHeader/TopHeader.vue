@@ -37,6 +37,10 @@ export default {
     return {
       navbarList: [
         {
+          name: "home",
+          title: "主页",
+        },
+        {
           name: "ProjectList",
           title: "项目列表",
         },
